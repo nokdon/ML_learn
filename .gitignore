@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environments and editor settings
+.venv/
+.vscode/
+tmp/
+.ipynb_checkpoints/
+
+# Local datasets and binary assets
+MNIST/
+*.idx1-ubyte
+*.idx3-ubyte
+SNN_aricle.pdf
+lil-dihh-big-dreams-v0-yje3escfyi1g1.webp
+
+# Scratch data files
+data.txt
+datafile.pkl
+datafile.txt
+myfile.txt
+test.txt
+test4.txt
+population_table_2025.csv
+sales_figures.csv
+universities_uk.csv
+universities_uk.txt
+
+# Experimental notebooks kept local
+Transformer.ipynb
+\\.ipynb
+CNN.ipynb
+CNN_cut.ipynb
+Fnumpy1.ipynb
+RN.ipynb
+al1.ipynb
+alg1.ipynb
+bal1.ipynb
+exam.ipynb
+fitting_models.ipynb
+konov1.ipynb
+matan*.ipynb
+numpy*.ipynb
+scrap.ipynb
+
+# Scratch scripts kept local
+Konov1.py
+matan6.py
+numpy*.py
+scrap1.py
+start.py

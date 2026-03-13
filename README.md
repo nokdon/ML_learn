@@ -2,7 +2,12 @@
 
 This repository is a personal machine learning playground with notebooks covering NumPy fundamentals, neural networks, CNNs, residual models, and JAX-based experiments.
 
-Some files are exploratory, while the more presentable projects are being grouped under [`ML/`](./ML/README.md).
+The public-facing side of the repo is now curated: polished projects live in [`ML/`](./ML/README.md), while local study notebooks, datasets, and scratch files are kept out of version control where possible.
+
+## Public Structure
+
+- [`ML/`](./ML/README.md) - showcase projects with focused documentation
+- root notebooks - older tracked experiments kept for continuity
 
 ## Featured Projects
 
@@ -33,5 +38,5 @@ A residual-style CNN implemented with `NumPy` and trained on MNIST.
 
 ## Notes
 
-- The repository currently contains many study notebooks alongside the showcase projects.
-- If you want a cleaner public-facing GitHub profile, the best entry point right now is the Transformer project inside [`ML/`](./ML/README.md).
+- The repository still contains legacy tracked notebooks from the learning process.
+- The cleanest GitHub entry point right now is the Transformer project inside [`ML/`](./ML/README.md).
